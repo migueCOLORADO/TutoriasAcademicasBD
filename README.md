@@ -24,6 +24,7 @@ Los estudiantes pueden solicitar tutorías indicando la materia en la que necesi
 
 ## Autores as Los Catadores
 Miguel Ángel Colorado Castaño <br>
-Alejandro Soto Bermeo
+Alejandro Soto Bermeo <br>
+Juan Arango Tobon
 </div>
 
